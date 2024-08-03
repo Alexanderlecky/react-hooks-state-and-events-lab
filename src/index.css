@@ -111,3 +111,13 @@ header button {
   color: var(--font-color-light);
   font-size: 0.8em;
 }
+
+.App.light {
+  background-color: white;
+  color: black;
+}
+
+.App.dark {
+  background-color: black;
+  color: white;
+}
